@@ -48,7 +48,7 @@ k.scene("main", async () => {
                         shape: new k.Rect(k.vec2(0),boundary.width,boundary.height)
                     }),
                     k.body({isStatic: true}),
-                    k.pos(boundary.x,boundary.y),
+                    k.pos(boundary.x-1,boundary.y-1),
                     boundary.name,
                 ]);
 
