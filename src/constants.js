@@ -1,4 +1,4 @@
-export const scaleFactor = 4;
+export const scaleFactor = 2;
 
 export const dialogueData = {
     pc: `This is where I work. I am a first year student (currently) and i can use multiple languages.
